@@ -1,0 +1,3 @@
+x, y, z = 0, 0, 0
+
+MAX_CONNECTIONS = 5000
