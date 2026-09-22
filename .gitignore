@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+python-crash-course/apps/cheat_sheets/
+python-crash-course/apps/estruturas_de_dados/
